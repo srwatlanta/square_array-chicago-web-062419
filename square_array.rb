@@ -4,5 +4,4 @@ def square_array(array)
     sqr_num = sqr_num ** 2
     start += 1
   end
-  sqr_num
 end
